@@ -12,5 +12,8 @@ int main() {
 	else {
 		float result = (float)c / (a - b);
 		printf("Kết quả của c / (a - b) là: %.2f\n", result);
+	}
 
+	_getch();
+	return 0;
 }
